@@ -1,7 +1,6 @@
 # Natural_Basins
 Contains study sites (basins) from relatively dry and humid climates across US
-MAP and AI of the selected data:
-ID	MAP(mm) AI
+MAP and AI of the selected data:ID	MAP(mm) AI
 1	1065.27	1.11544
 2	1061.19	1.12916
 3	1027	1.75699
@@ -84,3 +83,5 @@ ID	MAP(mm) AI
 80	1391	0.865817
 81	1086	1.05944665
 82	999.30	1.09248
+
+
